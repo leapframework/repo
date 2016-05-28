@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.leapframework</groupId>
+  <artifactId>leap</artifactId>
+  <versioning>
+    <release>0.1.2b</release>
+    <versions>
+      <version>0.1.0b</version>
+      <version>0.1.1b</version>
+      <version>0.1.2b</version>
+    </versions>
+    <lastUpdated>20160528153654</lastUpdated>
+  </versioning>
+</metadata>
