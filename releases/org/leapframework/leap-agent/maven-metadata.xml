@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.leapframework</groupId>
+  <artifactId>leap-agent</artifactId>
+  <versioning>
+    <release>0.2.0b</release>
+    <versions>
+      <version>0.2.0b</version>
+    </versions>
+    <lastUpdated>20160705031616</lastUpdated>
+  </versioning>
+</metadata>
