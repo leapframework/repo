@@ -4,9 +4,8 @@
   <artifactId>leap-websecurity</artifactId>
   <versioning>
     <versions>
-      <version>0.2.0-SNAPSHOT</version>
       <version>0.2.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160803103927</lastUpdated>
+    <lastUpdated>20160803105711</lastUpdated>
   </versioning>
 </metadata>

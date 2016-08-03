@@ -4,9 +4,8 @@
   <artifactId>leap-agent</artifactId>
   <versioning>
     <versions>
-      <version>0.2.0-SNAPSHOT</version>
       <version>0.2.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160803103753</lastUpdated>
+    <lastUpdated>20160803105539</lastUpdated>
   </versioning>
 </metadata>

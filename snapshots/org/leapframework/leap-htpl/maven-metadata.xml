@@ -4,9 +4,8 @@
   <artifactId>leap-htpl</artifactId>
   <versioning>
     <versions>
-      <version>0.2.0-SNAPSHOT</version>
       <version>0.2.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160803103920</lastUpdated>
+    <lastUpdated>20160803105703</lastUpdated>
   </versioning>
 </metadata>

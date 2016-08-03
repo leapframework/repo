@@ -4,13 +4,8 @@
   <artifactId>leap-orm</artifactId>
   <versioning>
     <versions>
-      <version>0.2.0-SNAPSHOT</version>
       <version>0.2.1-SNAPSHOT</version>
     </versions>
-<<<<<<< HEAD
-    <lastUpdated>20160803103847</lastUpdated>
-=======
-    <lastUpdated>20160803022656</lastUpdated>
->>>>>>> 31e8834384b8137c93fe857980fb57c37cf4000e
+    <lastUpdated>20160803105633</lastUpdated>
   </versioning>
 </metadata>

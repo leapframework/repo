@@ -4,9 +4,8 @@
   <artifactId>leap-webunit</artifactId>
   <versioning>
     <versions>
-      <version>0.2.0-SNAPSHOT</version>
       <version>0.2.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160803103851</lastUpdated>
+    <lastUpdated>20160803105637</lastUpdated>
   </versioning>
 </metadata>

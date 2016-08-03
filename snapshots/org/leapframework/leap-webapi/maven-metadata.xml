@@ -4,9 +4,8 @@
   <artifactId>leap-webapi</artifactId>
   <versioning>
     <versions>
-      <version>0.2.0-SNAPSHOT</version>
       <version>0.2.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20160803103943</lastUpdated>
+    <lastUpdated>20160803105726</lastUpdated>
   </versioning>
 </metadata>

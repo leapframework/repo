@@ -5,59 +5,32 @@
   <version>0.2.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-<<<<<<< HEAD
-      <timestamp>20160803.103847</timestamp>
-      <buildNumber>12</buildNumber>
+      <timestamp>20160803.105632</timestamp>
+      <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20160803103847</lastUpdated>
+    <lastUpdated>20160803105632</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.2.1-20160803.103847-12</value>
-        <updated>20160803103847</updated>
+        <value>0.2.1-20160803.105632-1</value>
+        <updated>20160803105632</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.2.1-20160803.103847-12</value>
-        <updated>20160803103847</updated>
-=======
-      <timestamp>20160803.022656</timestamp>
-      <buildNumber>7</buildNumber>
-    </snapshot>
-    <lastUpdated>20160803022656</lastUpdated>
-    <snapshotVersions>
-      <snapshotVersion>
-        <extension>jar</extension>
-        <value>0.2.1-20160803.022656-7</value>
-        <updated>20160803022656</updated>
-      </snapshotVersion>
-      <snapshotVersion>
-        <extension>pom</extension>
-        <value>0.2.1-20160803.022656-7</value>
-        <updated>20160803022656</updated>
->>>>>>> 31e8834384b8137c93fe857980fb57c37cf4000e
+        <value>0.2.1-20160803.105632-1</value>
+        <updated>20160803105632</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-<<<<<<< HEAD
-        <value>0.2.1-20160803.103847-12</value>
-        <updated>20160803103847</updated>
-=======
-        <value>0.2.1-20160803.022656-7</value>
-        <updated>20160803022656</updated>
->>>>>>> 31e8834384b8137c93fe857980fb57c37cf4000e
+        <value>0.2.1-20160803.105632-1</value>
+        <updated>20160803105632</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-<<<<<<< HEAD
-        <value>0.2.1-20160803.103847-12</value>
-        <updated>20160803103847</updated>
-=======
-        <value>0.2.1-20160803.022656-7</value>
-        <updated>20160803022656</updated>
->>>>>>> 31e8834384b8137c93fe857980fb57c37cf4000e
+        <value>0.2.1-20160803.105632-1</value>
+        <updated>20160803105632</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
