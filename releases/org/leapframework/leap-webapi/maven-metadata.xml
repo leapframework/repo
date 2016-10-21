@@ -3,7 +3,7 @@
   <groupId>org.leapframework</groupId>
   <artifactId>leap-webapi</artifactId>
   <versioning>
-    <release>0.2.2b</release>
+    <release>0.3.0b</release>
     <versions>
       <version>0.1.0b</version>
       <version>0.1.1b</version>
@@ -11,7 +11,8 @@
       <version>0.2.0b</version>
       <version>0.2.1b</version>
       <version>0.2.2b</version>
+      <version>0.3.0b</version>
     </versions>
-    <lastUpdated>20160901101625</lastUpdated>
+    <lastUpdated>20161021015122</lastUpdated>
   </versioning>
 </metadata>

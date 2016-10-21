@@ -3,12 +3,13 @@
   <groupId>org.leapframework</groupId>
   <artifactId>leap-agent</artifactId>
   <versioning>
-    <release>0.2.2b</release>
+    <release>0.3.0b</release>
     <versions>
       <version>0.2.0b</version>
       <version>0.2.1b</version>
       <version>0.2.2b</version>
+      <version>0.3.0b</version>
     </versions>
-    <lastUpdated>20160901101431</lastUpdated>
+    <lastUpdated>20161021014856</lastUpdated>
   </versioning>
 </metadata>
