@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.leapframework</groupId>
+  <artifactId>archetype-webapp-quickstart</artifactId>
+  <version>0.4.0b-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161031.023608</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20161031023608</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.4.0b-20161031.023608-1</value>
+        <updated>20161031023608</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.4.0b-20161031.023608-1</value>
+        <updated>20161031023608</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>0.4.0b-20161031.023608-1</value>
+        <updated>20161031023608</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
