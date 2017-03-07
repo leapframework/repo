@@ -3,7 +3,7 @@
   <groupId>org.leapframework</groupId>
   <artifactId>leap-core</artifactId>
   <versioning>
-    <release>0.4.0b</release>
+    <release>0.4.1b</release>
     <versions>
       <version>0.1.0b</version>
       <version>0.1.1b</version>
@@ -13,7 +13,8 @@
       <version>0.2.2b</version>
       <version>0.3.0b</version>
       <version>0.4.0b</version>
+      <version>0.4.1b</version>
     </versions>
-    <lastUpdated>20170117100234</lastUpdated>
+    <lastUpdated>20170307070121</lastUpdated>
   </versioning>
 </metadata>
